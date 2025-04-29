@@ -1,2 +1,3 @@
-# thesaga
-# thesaga
+# Therian Saga game guide
+
+
