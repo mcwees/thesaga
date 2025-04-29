@@ -1,0 +1,70 @@
+table.table-th{
+	border:3px solid #FFFFFF;
+	border-collapse: collapse;
+	padding: 3px;
+	border-top: 0;
+	border-left: 0;
+	box-shadow: 3px 4px 5px #999;
+	background:#eeeef0;
+}
+.table-th TH{
+	background:#E4E0E7;
+	border-bottom:2px solid #FFFFFF;
+	border-left:2px solid #FFFFFF;
+	padding: 3px;
+	color:#033251;
+	height: 40px;
+}
+.change-background TR:nth-child(2n){background:#f7f7f7; }
+.table-th TD{
+	border-bottom:2px solid #a0a0a0;
+	border-left:1px solid #b0b0b0;
+	padding: 3px;
+}
+table.table-textblock{border-collapse:collapse !important; border:0px }
+table.table-textblock td.table-textblock-1 { width:19px; height:26px }
+table.table-textblock td.table-textblock-2 { width:513px; height:26px }
+table.table-textblock td.table-textblock-2-200 { width:200px; height:26px }
+table.table-textblock td.table-textblock-3 { width:19px; height:26px }
+table.table-textblock td.table-textblock-4 { width:19px; height:175px }
+table.table-textblock td.table-textblock-5 { width:513px; height:175px }
+table.table-textblock td.table-textblock-5-200 { width:200px; height:175px }
+table.table-textblock td.table-textblock-6 { width:19px; height:175px }
+table.table-textblock td.table-textblock-7 { width:19px; height:28px }
+table.table-textblock td.table-textblock-8 { width:513px; height:28px }
+table.table-textblock td.table-textblock-8-200 { width:200px; height:28px }
+table.table-textblock td.table-textblock-9 { width:19px; height:28px }
+@font-face{
+	font-family:'Barkentina' !important;
+	font-weight:normal;
+	font-style:normal
+}
+.firstHeading{font:bold 32px/35px barkentina,calibri,serif !important}
+h1 {	font:bold 26px !important;
+	padding-top: 38px;
+	padding-bottom: 7px; }
+h2 {	font:bold 24px barkentina,calibri,serif !important;
+	padding-top: 32px; }
+h3 { font:bold 18px/22px barkentina,calibri,serif !important;
+	background-color:#EEEEEE;
+	padding-top:15px !important;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	margin-top:5px !important; }
+h5 {	font:bold 14px/17px barkentina,calibri,serif !important}
+td.header1 {
+	width:232px;
+	height:57px;
+	text-align:center;
+	font:bold 14px/17px barkentina,calibri,serif !important
+}
+td.header2 {
+	width:500px;
+	height:168px;
+	text-shadow:1px 3px 2px rgba(0,0,0,0.3)
+}
+p {	padding: 0;
+	padding-bottom: 7px;
+	padding-top: 0px; }
+@media print{  }
+

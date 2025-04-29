@@ -1,0 +1,164 @@
+html, body { margin:0; padding: 0; height: 100%; width: 100%; }
+body { width:100%; height:100%; background: #ffffff; }
+.olImageLoadError {  display: none !important; }
+
+html, body {
+       		overflow: hidden;
+       		padding: 0;
+       		height: 100%;
+       		width: 100%;
+       		font-family: serif;
+		font-size: 16pt;
+       	}
+
+       	body {
+box-sizing: content-box;
+       		margin: 10px;
+       		background: #fff;
+       	}
+
+       	h1 {
+       		margin: 0;
+       		padding: 6px;
+       		border: 0;
+       		font-size: 20pt;
+       	}
+	#logo {
+		height:100px;
+		background-repeat: no-repeat;
+		background-position:center;
+	}
+
+
+       	#side {
+		width: 200px;
+		height:100%;
+       		padding: 0;
+       		margin-right: 5px;
+       		//background-color: #eee;
+       		border: 1px solid #888;
+		float:left;
+       	}
+
+       	#subheader {
+       		height: 12px;
+       		text-align: right;
+       		font-size: 14pt;
+       		color: #555;
+       	}
+
+  	#map {
+		float:left;
+  		height: 100%;
+  		width: 100%;
+  		border: 1px solid #888;
+  	}
+
+  .qtip {
+    font-size: 14pt;
+    line-height: 18px;
+  }
+
+	  	.olImageLoadError {
+	  		display: none;
+	  	}
+
+	  	.olControlLayerSwitcher .layersDiv {
+	  		border-radius: 10px 0 0 10px;
+	  	}
+
+	  	.controlBox ul {
+	  		padding-left: 5px;
+	  		margin-top: 0;
+	  		margin-bottom: 0;
+	  		line-height: 5px;
+	  		list-style-type: none;
+	  		margin-right: 10px;
+			}
+	.olControlMousePosition{
+		background: #fff;
+	}
+			
+			
+			
+/*  кнопки комментов */			
+
+
+	.myButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #007dc1), color-stop(1, #0061a7));
+	background:-moz-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:-webkit-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:-o-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:-ms-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#007dc1', endColorstr='#0061a7',GradientType=0);
+	background-color:#007dc1;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:16pt;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #154682;
+	}
+	.myButton:hover {
+		background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #0061a7), color-stop(1, #007dc1));
+		background:-moz-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+		background:-webkit-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+		background:-o-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+		background:-ms-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+		background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0061a7', endColorstr='#007dc1',GradientType=0);
+		background-color:#0061a7;
+	}
+	.myButton:active {
+		position:relative;
+		top:1px;
+	}
+	
+	
+	
+	#wrap{
+		display: none;
+		opacity: 0.8;
+		position: fixed;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		padding: 16px;
+		background-color: rgba(1, 1, 1, 0.725);
+		z-index: 9000;
+		overflow: auto;
+	}
+	
+	#window{
+		width: 400px;
+		height: 80%;
+		margin: 50px auto;
+		display: none;
+		background: #fff;
+		z-index: 9000;
+		position: fixed;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		padding: 16px;
+		overflow: scroll;
+	}
+	
+	.close{
+		margin-left: 364px;
+		margin-top: 4px;
+		cursor: pointer;
+	}	
+

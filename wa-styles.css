@@ -1,0 +1,26 @@
+table {	border-collapse: collapse;
+	border: 2px solid #f0f0f0;
+	border-top: 0;
+	border-left: 0;
+	background-image: url("/sand-tile2.png");
+	box-shadow: 3px 3px 7px #999;
+	}
+th,td { padding: 3px;
+	font-family: sans-serif;
+	font-size: 10pt;
+	border-bottom: 1px solid #ffffff;
+	border-left: 1px solid #ffffff;
+	border-top: 0;
+	border-right: 0;
+	padding: 3px;
+	}
+td {	background: #F0F0F0;
+	opacity: 0.5;
+	}
+th {	background: #aaaaaa;
+	opacity: 0.6;
+	}
+body {	font-family: sans-serif;
+	}
+b {	font-weight: normal;
+	}
