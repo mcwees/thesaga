@@ -40,18 +40,28 @@ table.table-textblock td.table-textblock-9 { width:19px; height:28px }
 	font-style:normal
 }
 .firstHeading{font:bold 32px/35px barkentina,calibri,serif !important}
+
+
 h1 {	font:bold 26px !important;
-	padding-top: 38px;
-	padding-bottom: 7px; }
-h2 {	font:bold 24px barkentina,calibri,serif !important;
-	padding-top: 32px; }
-h3 { font:bold 18px/22px barkentina,calibri,serif !important;
+	padding-top: 48px;
+	padding-bottom: 12px;
+}
+h2 {	font:bold 24px calibri,serif !important;
+	padding-top: 42px;
+	padding-bottom: 7px
+}
+h3 { font:bold 18px/22px calibri,serif !important;
 	background-color:#EEEEEE;
-	padding-top:15px !important;
-	padding-bottom: 0px;
-	margin-bottom: 0px;
+	padding-top:20px !important;
+	padding-bottom: 3px;
+	margin-bottom: 17px;
+	width: 70%;
+	border-bottom: dashed 1px #77bbaa;
 	margin-top:5px !important; }
 h5 {	font:bold 14px/17px barkentina,calibri,serif !important}
+
+h1, h2 { width: 80%;
+	 border-bottom: solid 1px #003355}
 td.header1 {
 	width:232px;
 	height:57px;
