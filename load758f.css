@@ -39,7 +39,7 @@ table.table-textblock td.table-textblock-9 { width:19px; height:28px }
 	font-weight:normal;
 	font-style:normal
 }
-.firstHeading{font:bold 32px/35px barkentina,calibri,serif !important}
+.firstHeading{font:bold 32px/35px calibri,serif !important}
 
 
 h1 {	font:bold 26px !important;
@@ -50,15 +50,20 @@ h2 {	font:bold 24px calibri,serif !important;
 	padding-top: 42px;
 	padding-bottom: 7px
 }
-h3 { font:bold 18px/22px calibri,serif !important;
-	background-color:#EEEEEE;
-	padding-top:20px !important;
+h3 { font: 24px calibri,serif !important;
+	font-style: italic;
+	/*background-color:#E0E0F0;*/
+	padding-top:40px !important;
 	padding-bottom: 3px;
+	padding-left: 7px;
 	margin-bottom: 17px;
 	width: 70%;
 	border-bottom: dashed 1px #77bbaa;
-	margin-top:5px !important; }
-h5 {	font:bold 14px/17px barkentina,calibri,serif !important}
+	margin-top:5px !important;
+	background: linear-gradient(4deg,
+		#CACADE 0%, #EEEEEE 25%, #EEEEEE 100%);
+}
+h5 {	font:bold 14px/17px calibri,serif !important}
 
 h1, h2 { width: 80%;
 	 border-bottom: solid 1px #003355}
@@ -66,7 +71,7 @@ td.header1 {
 	width:232px;
 	height:57px;
 	text-align:center;
-	font:bold 14px/17px barkentina,calibri,serif !important
+	font:bold 14px/17px calibri,serif !important
 }
 td.header2 {
 	width:500px;
@@ -75,6 +80,14 @@ td.header2 {
 }
 p {	padding: 0;
 	padding-bottom: 7px;
-	padding-top: 0px; }
+	padding-top: 0px; 
+}
+p.imgdesc {
+	width:560px;
+	padding-left: 7px;
+	font-style: italic;
+}
+
+
 @media print{  }
 
