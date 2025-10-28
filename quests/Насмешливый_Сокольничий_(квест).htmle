@@ -21,7 +21,7 @@
 <tr>
 <th style="width: 100px"> Получения задания
 </th>
-<td> <b>Керридвен Каерн, искатель приключений</b>, <a href="/Особняк_Фредерики_Сорьясон" title="Особняк Фредерики Сорьясон">Особняк Фредерики Сорьясон</a>
+<td> <b>Керридвен Каерн, искатель приключений</b>, <a href="/Особняк_Фредерики_Сорьясон.html" title="Особняк Фредерики Сорьясон">Особняк Фредерики Сорьясон</a>
 </td></tr>
 <tr>
 <th> Для начала необходимо
@@ -33,7 +33,7 @@
 <tr>
 <th> Место выполнения
 </th>
-<td> <a href="/Особняк_Фредерики_Сорьясон" title="Особняк Фредерики Сорьясон"><img alt="Cabin-Snow.png" src="/images/thumb/5/5d/Cabin-Snow.png/24px-Cabin-Snow.png" width="24" height="32" /></a> <a href="/Особняк_Фредерики_Сорьясон" title="Особняк Фредерики Сорьясон">Особняк Фредерики Сорьясон</a>
+<td> <a href="/Особняк_Фредерики_Сорьясон.html" title="Особняк Фредерики Сорьясон"><img alt="Cabin-Snow.png" src="/images/thumb/5/5d/Cabin-Snow.png/24px-Cabin-Snow.png" width="24" height="32" /></a> <a href="/Особняк_Фредерики_Сорьясон.html" title="Особняк Фредерики Сорьясон">Особняк Фредерики Сорьясон</a>
 </td></tr>
 <tr>
 <th> Для завершения требуется
@@ -74,7 +74,7 @@
 <tr>
 <td> Доказать капитану свою невиновность
 </td>
-<td> <a href="/Лидерство" title="Лидерство"><img alt="Лидерство" src="/images/thumb/6/6b/Лидерство.png/24px-Лидерство.png" width="24" height="24" /></a> 40 <br /> <a href="/Навыки_местности#.D0.97.D0.BD.D0.B0.D0.BD.D0.B8.D0.B5_.D1.81.D0.BD.D0.B5.D0.B3.D0.BE.D0.B2" title="Знание снегов"><img alt="Знание снегов" src="/images/thumb/4/4e/Snow.png/24px-Snow.png" width="24" height="24" /></a> 10
+<td> <a href="/Лидерство.html" title="Лидерство"><img alt="Лидерство" src="/images/thumb/6/6b/Лидерство.png/24px-Лидерство.png" width="24" height="24" /></a> 40 <br /> <a href="/Навыки_местности#.D0.97.D0.BD.D0.B0.D0.BD.D0.B8.D0.B5_.D1.81.D0.BD.D0.B5.D0.B3.D0.BE.D0.B2" title="Знание снегов"><img alt="Знание снегов" src="/images/thumb/4/4e/Snow.png/24px-Snow.png" width="24" height="24" /></a> 10
 </td>
 <td> <img alt="Время" src="/images/thumb/6/6e/Время.png/13px-Время.png" width="13" height="13" /> 00:00:10
 </td>
@@ -84,7 +84,7 @@
 </td>
 <td style="text-align:left">
 <ul><li> <b>Капитан убежден</b>
-</li><li> <a href="/Репутация" title="Йотунгары"><img alt="Йотунгары" src="/images/thumb/1/1b/Репутация_-_Йотунгары.png/24px-Репутация_-_Йотунгары.png" width="24" height="27" /></a> <a href="/Репутация" title="Репутация">Йотунгары</a> 1
+</li><li> <a href="/Репутация.html" title="Йотунгары"><img alt="Йотунгары" src="/images/thumb/1/1b/Репутация_-_Йотунгары.png/24px-Репутация_-_Йотунгары.png" width="24" height="27" /></a> <a href="/Репутация.html" title="Репутация">Йотунгары</a> 1
 </li></ul>
 </td></tr>
 <tr>
@@ -105,7 +105,7 @@
 <tr>
 <td> Обмануть подозреваемых
 </td>
-<td> <a href="/Торговля" title="Торговля"><img alt="Торговля" src="/images/thumb/1/18/Торговля.png/24px-Торговля.png" width="24" height="24" /></a> 30 <br /> <a href="/Навыки_местности#.D0.97.D0.BD.D0.B0.D0.BD.D0.B8.D0.B5_.D1.81.D0.BD.D0.B5.D0.B3.D0.BE.D0.B2" title="Знание снегов"><img alt="Знание снегов" src="/images/thumb/4/4e/Snow.png/24px-Snow.png" width="24" height="24" /></a> 10
+<td> <a href="/Торговля.html" title="Торговля"><img alt="Торговля" src="/images/thumb/1/18/Торговля.png/24px-Торговля.png" width="24" height="24" /></a> 30 <br /> <a href="/Навыки_местности#.D0.97.D0.BD.D0.B0.D0.BD.D0.B8.D0.B5_.D1.81.D0.BD.D0.B5.D0.B3.D0.BE.D0.B2" title="Знание снегов"><img alt="Знание снегов" src="/images/thumb/4/4e/Snow.png/24px-Snow.png" width="24" height="24" /></a> 10
 </td>
 <td> <img alt="Время" src="/images/thumb/6/6e/Время.png/13px-Время.png" width="13" height="13" /> 00:00:10
 </td>
@@ -115,13 +115,13 @@
 </td>
 <td style="text-align:left">
 <ul><li> <b>Капитан убежден</b>
-</li><li> <a href="/Репутация" title="Виннерсоны"><img alt="Виннерсоны" src="/images/thumb/5/5e/Репутация_-_Виннерсоны.png/24px-Репутация_-_Виннерсоны.png" width="24" height="27" /></a> <a href="/Репутация" title="Репутация">Виннерсоны</a> 1
+</li><li> <a href="/Репутация.html" title="Виннерсоны"><img alt="Виннерсоны" src="/images/thumb/5/5e/Репутация_-_Виннерсоны.png/24px-Репутация_-_Виннерсоны.png" width="24" height="27" /></a> <a href="/Репутация.html" title="Репутация">Виннерсоны</a> 1
 </li></ul>
 </td></tr>
 <tr>
 <td> Солгать капитану
 </td>
-<td> <a href="/Шпионаж" title="Шпионаж"><img alt="Шпионаж" src="/images/thumb/e/ef/Шпионаж.png/24px-Шпионаж.png" width="24" height="24" /></a> 32 <br /> <a href="/Навыки_местности#.D0.97.D0.BD.D0.B0.D0.BD.D0.B8.D0.B5_.D1.81.D0.BD.D0.B5.D0.B3.D0.BE.D0.B2" title="Знание снегов"><img alt="Знание снегов" src="/images/thumb/4/4e/Snow.png/24px-Snow.png" width="24" height="24" /></a> 10
+<td> <a href="/Шпионаж.html" title="Шпионаж"><img alt="Шпионаж" src="/images/thumb/e/ef/Шпионаж.png/24px-Шпионаж.png" width="24" height="24" /></a> 32 <br /> <a href="/Навыки_местности#.D0.97.D0.BD.D0.B0.D0.BD.D0.B8.D0.B5_.D1.81.D0.BD.D0.B5.D0.B3.D0.BE.D0.B2" title="Знание снегов"><img alt="Знание снегов" src="/images/thumb/4/4e/Snow.png/24px-Snow.png" width="24" height="24" /></a> 10
 </td>
 <td> <img alt="Время" src="/images/thumb/6/6e/Время.png/13px-Время.png" width="13" height="13" /> 00:00:10
 </td>
@@ -131,7 +131,7 @@
 </td>
 <td style="text-align:left">
 <ul><li> <b>Капитан убежден</b>
-</li><li> <a href="/Репутация" title="Калероны"><img alt="Калероны" src="/images/thumb/0/0b/Репутация_-_Калероны.png/24px-Репутация_-_Калероны.png" width="24" height="27" /></a> <a href="/Репутация" title="Репутация">Калероны</a> 1
+</li><li> <a href="/Репутация.html" title="Калероны"><img alt="Калероны" src="/images/thumb/0/0b/Репутация_-_Калероны.png/24px-Репутация_-_Калероны.png" width="24" height="27" /></a> <a href="/Репутация.html" title="Репутация">Калероны</a> 1
 </li></ul>
 </td></tr></table><br />
 
