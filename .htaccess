@@ -1,0 +1,29 @@
+AddType text/html .html
+AddHandler server-parsed .html
+Options Indexes FollowSymLinks Includes
+
+ErrorDocument 500 /error.html
+
+RewriteEngine On
+RewriteBase /
+
+RewriteRule "^(\S*)\s+(\S*)$" $1_$2 [N,NE]
+RewriteRule ^([^\ ]*)\ (.*)$ $1_$2 [E=rspace:yes,N]
+# RewriteRule "^(\S+)\s+(\S+)$" /$1_$2 [L,R=302,NE]
+# RewriteRule "^(\S*)\s+(\S*)$" $1_$2 [C,N,NE]
+
+
+RewriteCond %{REQUEST_URI} квест
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+) quests/$1 [L]
+
+RewriteCond %{REQUEST_URI} Категория
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+) categories/$1 [L]
+
+
+#RewriteCond %{REQUEST_URI} !.+\....$
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^(.+) $1.html [L]
+
+
